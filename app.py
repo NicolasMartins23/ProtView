@@ -4,7 +4,7 @@ from visualizer import ProteinVisualizer
 st.set_page_config(page_title="Prot-View | A BioApps Tool", page_icon="🔬")
 
 st.title("🔬 ProtView | A BioApps Tool")
-st.write("Upload a **CIF or PDB file** to visualize its molecular structure, convert between formats, and extract the FASTA sequence.")
+st.write("Upload a **CIF or PDB file** to visualize its molecular structure.")
 
 # File uploader to handle both PDB and CIF files
 uploaded_file = st.file_uploader("Upload a PDB or CIF file", type=["pdb", "cif"])
