@@ -16,7 +16,7 @@ The app supports different visualization styles (e.g., Cartoon, Stick, Sphere) a
 #Installation
 ### Clone the repository:
 
-git clone https://github.com/NicolasMartins/ProtView.git
+git clone https://github.com/NicolasMartins/ProtView.git<br/>
 cd ProtView
 
 ### Install the required dependencies:
@@ -38,6 +38,7 @@ On-screen instructions are provived.<br/>
 
 ### Project Structure
 ├── app.py                # Main Streamlit app
+├── example.pdb           # Example pdb file for ease of use
 ├── visualizer.py         # Python script for 3Dmol visualization
 ├── requirements.txt      # List of dependencies
 └── README.md             # Project documentation
