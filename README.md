@@ -13,7 +13,7 @@ The app supports different visualization styles (e.g., Cartoon, Stick, Sphere) a
 - py3Dmol
 - Can be installed via requirements.txt
 
-#Installation
+# Installation
 ### Clone the repository:
 
 git clone https://github.com/NicolasMartins/ProtView.git<br/>
