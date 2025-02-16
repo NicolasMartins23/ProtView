@@ -37,9 +37,9 @@ Move: Hold Control + Left-click and drag to move the structure.<br/>
 On-screen instructions are provived.<br/>
 
 ### Project Structure
-├── app.py                # Main Streamlit app
-├── example.pdb           # Example pdb file for ease of use
-├── visualizer.py         # Python script for 3Dmol visualization
-├── requirements.txt      # List of dependencies
-└── README.md             # Project documentation
+├── app.py                # Main Streamlit app<br/>
+├── example.pdb           # Example pdb file for ease of use<br/>
+├── visualizer.py         # Python script for 3Dmol visualization<br/>
+├── requirements.txt      # List of dependencies<br/>
+└── README.md             # Project documentation<br/>
 
