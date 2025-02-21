@@ -1,6 +1,7 @@
 # 3D Protein Structure Visualizer
 🔬 3D Protein Structure Visualizer is a web app built with Streamlit that allows you to upload a PDB file and visualize its molecular structure in 3D.<br/>
-The app supports different visualization styles (e.g., Cartoon, Stick, Sphere) and offers interactive controls to explore the protein structure.
+The app supports different visualization styles (e.g., Cartoon, Stick, Sphere) and offers interactive controls to explore the protein structure.<br/>
+The online version can be acessed here: https://bioapps-protview.streamlit.app/ <br>
 
 # Features
 - Upload and visualize PDB files in 3D.
